@@ -1,4 +1,4 @@
-## Oii eu sou a Graziela!
+## Oii eu sou a Graziela! 🌸
 
 - 🔭 Gostaria de trabalhar com Java, Python e JavaScript.
 - 🌱 Estou no terceiro semestre de Ciências da Computação.
