@@ -1,7 +1,7 @@
 ## Oii eu sou a Graziela! 🌸
 
-- 🔭 Gostaria de trabalhar com Java, Python e JavaScript.
-- 🌱 Estou no terceiro semestre de Ciências da Computação.
+- 🔭 Gostaria de trabalhar com front-and ou back-and.
+- 🌱 Estou no quarto semestre de Ciências da Computação.
 - 😄 Pronouns: Ela/dela.
 
   <div style="display: inline_block"><br>
