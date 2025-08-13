@@ -1,6 +1,6 @@
 ## Oii eu sou a Graziela! 🌸
 
-- 🔭 Gostaria de trabalhar com front-and ou back-and.
+- 🔭 Gostaria de trabalhar com front-end ou back-end.
 - 🌱 Estou no quarto semestre de Ciências da Computação.
 - 😄 Pronouns: Ela/dela.
 
