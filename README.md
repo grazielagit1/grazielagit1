@@ -1,6 +1,6 @@
 ## Oii eu sou a Graziela! 🌸
 
-- 🔭 Gostaria de trabalhar com front-end ou back-end.
+- 🔭 Gostaria de trabalhar Full stack.
 - 🌱 Estou no quarto semestre de Ciências da Computação.
 - 😄 Pronouns: Ela/dela.
 
